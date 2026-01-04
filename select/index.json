@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ロンリーユニバース",
+  "base_artist": "Aqu3ra",
+  "createdAt": "2026-01-04T13:12:21.686536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロンリーユニバース (feat. 花里みのり&桐谷遥&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_ロンリーユニバース_(feat._花里みのり&桐谷遥&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロンリーユニバース",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&初音ミク",
+      "has_synced": true,
+      "path": "select/02_ロンリーユニバース_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロンリーユニバース",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_ロンリーユニバース_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロンリーユニバース",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": true,
+      "path": "select/04_ロンリーユニバース_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロンリーユニバース (feat",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/05_ロンリーユニバース_(feat_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロンリーユニバース (feat. 花里みのり&桐谷遥&初音ミク)",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/06_ロンリーユニバース_(feat._花里みのり&桐谷遥&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロンリーユニバース",
+      "artist": "Aqu3ra",
+      "has_synced": true,
+      "path": "select/07_ロンリーユニバース_Aqu3ra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロンリーユニバース",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_ロンリーユニバース_Aqu3ra.txt"
+    }
+  ]
+}
